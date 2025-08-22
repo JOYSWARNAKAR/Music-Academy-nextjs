@@ -59,6 +59,21 @@ Music-Academy-nextjs
 
 
 ```
+## TechStasck
+```bash
+nextjs
+reactjs
+react-dom
+tailwindcss
+typescript
+motion
+clsx
+simplex-noise
+eslint
+turbopack
+postcss
+acertenity ui
+```
 
 ## Getting Started
 
