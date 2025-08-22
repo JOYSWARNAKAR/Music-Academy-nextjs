@@ -79,8 +79,10 @@ function Footer() {
           <p>Phone: (123) 456-7890</p>
         </div>
         </div>
-        <p className="text-center text-xs pt-8">© 2024-2027 Music School. All rights reserved.</p>
+        <p className="text-center text-xs pt-8">🛠 Build by Joy Swarnakar 😎❤️ </p>
+         <p className="text-center text-xs pt-8">© 2024-2027 Music School. All rights reserved.</p>
     </footer>
+    
   )
 }
 
