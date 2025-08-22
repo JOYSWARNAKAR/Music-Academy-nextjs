@@ -81,5 +81,3 @@ function FeaturedCourses() {
 }
 
 export default FeaturedCourses
-
-
