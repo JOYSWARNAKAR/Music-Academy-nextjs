@@ -59,7 +59,7 @@ Music-Academy-nextjs
 
 
 ```
-## TechStasck
+## TechStack
 ```bash
 nextjs
 reactjs
