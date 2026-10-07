@@ -28,11 +28,12 @@ function HeroSection() {
      course and tranform your musical journey today.
             </p>
             <div className="mt-4">
-        <Link href={"/course"}>
+        <Link href={"/courses"}>
         <Button
         borderRadius="1.75rem"
         className="bg-white dark:bg-slate-900 text-black
-         dark:text-white border-neutral-200 dark:border-slate-800"
+         dark:text-white border-neutral-200 dark:border-slate-800
+          hover:bg-neutral-100 dark:hover:bg-slate-800 cursor-pointer"
       >
        Explore course
       </Button>
